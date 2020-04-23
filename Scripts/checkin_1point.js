@@ -8,7 +8,7 @@ Telegram: Leped_Bot
 GitHub: NavePnow
 */
 const accounts = [
-    ["leon.twain.cn@gmail.com", "Tun000210$","1","xxxx"]
+    ["leon_tun", "Tun000210$","1","xxxx"]
 ]
 
 async function launch() {
